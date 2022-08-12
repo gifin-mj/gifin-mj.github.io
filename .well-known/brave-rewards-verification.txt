@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: gifin-mj.github.io
+Token: 79a8de4fa91a8ccdc5915566b9a2ab58fc882637548db7a45ec27b735b87ecab
